@@ -4,7 +4,7 @@
 # ***Developed By*** 
 - ***Baishakhi Modak*** || ***Linkedin -*** https://www.linkedin.com/in/baishakhi-modak-22410a249 || ***Email -*** baishakhimodak18@gmail.com
 * ***Akash Kundu*** || ***Linkedin -*** https://www.linkedin.com/in/akash-kundu-a0a617208 || ***Email -*** anuaku2001@gmail.com
-+ ***Abhijit Nandi*** || ***Linkedin -***  || ***Email -*** 
++ ***Abhijit Nandi*** || ***Linkedin -*** https://www.linkedin.com/in/abhijit-nandi-441224180/ || ***Email -*** happy133264@gmail.com
 
 
 
