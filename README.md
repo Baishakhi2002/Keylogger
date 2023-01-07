@@ -3,7 +3,8 @@ It is a program that is designed to record any input entered by the user from th
 
 # Made By 
 - Baishakhi Modak
-* ![Akash Kundu](C:\Users\anuak\Downloads\PXL_20221226_081936313_2.jpg)
+* <img width="350" alt="Akash Kundu" src="https://drive.google.com/file/d/1fdJMXIJKmiAeaJcWK8aM_XrB_sMyC8Vt/view?usp=share_link/PXL_20221226_081936313_2.jpg">
 + Abhijit Nandi
+
 
 
