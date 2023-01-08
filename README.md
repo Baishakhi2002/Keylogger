@@ -5,14 +5,14 @@
 
 # ***Usage***
 
-***Keylogger usage are two types. One is Good Purposes and another one is Bad Purposes.
+***Keylogger usage are two types. One is Good Purposes and another one is Bad Purposes.***
 
-Good Purposes Example -
-Used to monitor employee performance.
-Parents also used to monitor their kids and many other purposes.
+***Good Purposes Example -***
+- ***Used to monitor employee performance.***
+* ***Parents also used to monitor their kids and many other purposes.***
 
-Bad Purposes Example -
-Used to steal private information and many other bad purposes.***
+***Bad Purposes Example -***
++ ***Used to steal private information and many other bad purposes.***
 
 
 # ***Testing***
